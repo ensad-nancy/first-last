@@ -29,6 +29,7 @@ digraph {
 	first -> "transmission radio"
 	first -> "clonage"
 	first -> "décodage du génome"
+	first -> "Hacker's Conference"
 	
 	last -> dodo
 	last -> "roi de france"

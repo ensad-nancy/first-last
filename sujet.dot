@@ -14,6 +14,8 @@ digraph {
 	first [label="premier"]
 	last [label="dernier"]
 	
+	first -> last
+	
 	"dernier des derniers\n et non pas le dernier en date" 
 
 	first -> "homme sur la lune"

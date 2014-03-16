@@ -11,6 +11,12 @@ tout les types sont acceptés
 - être vivant.
 
 
+restrictions 
+
+- seul les derniers / premiers absolus sont acceptés 
+
+dernier des derniers et non pas le dernier en date
+
 ### constituer la base
 
 1. récoler des documents se rapportant à des premiers… et des derniers…

@@ -2,6 +2,8 @@ digraph {
 
 	premier -> dernier
 
-	fifo [label="FIFO\nfirst in first out"]
-
+	FIFO [label="FIFO\nthe first in the first out"]
+	LIFO [label="LIFO\nthe last in the last out"]
+	FILI [label="FILI\nthe first in and the last in"]
+	
 }

@@ -54,9 +54,9 @@ digraph {
 		
 		label="processus"
 		
-		get [label="récolter"]
+		//get [label="récolter"]
 		
-		add -> cas -> metadata -> upload
+		ajouter -> categoriser -> decrire -> envoyer
 		
 	
 	}

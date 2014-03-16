@@ -8,6 +8,8 @@ digraph {
 	edge [fontname="monaco", fontsize = 10]
 
 	"homme sur la lune"
+	"ordinateur"
+	
 
 	subgraph cluster_FO{
 	

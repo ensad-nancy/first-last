@@ -12,9 +12,9 @@ digraph {
 	
 		label="in/out"
 		
-		FIFO [label="FIFO\nthe first in the first out"]
-		LIFO [label="LIFO\nthe last in the last out"]
-		FILI [label="FILI\nthe first in and the last in"]
+		FIFO [label="FIFO :\nfirst in\nfirst out"]
+		LIFO [label="LIFO\nlast\nlast out"]
+		FILI [label="FILI\nfirst\n last in"]
 
 		FILI -> FIFO -> LIFO -> FILI
 	}

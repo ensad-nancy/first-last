@@ -1,6 +1,8 @@
 digraph {
 
-	premier -> dernier
+	first [label="premier"]
+	last [label="dernier"]
+	
 	fontname="myriadpro"
 	fontsize = 14
 	

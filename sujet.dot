@@ -56,7 +56,7 @@ digraph {
 		
 		get [label="récolter"]
 		
-		get -> {first, last}
+		get -> cas
 	
 	}
 	

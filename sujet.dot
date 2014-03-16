@@ -14,6 +14,7 @@ digraph {
 	
 	last -> dodo
 	last -> "roi de france"
+	last -> "guillotiné"
 
 	subgraph cluster_FO{
 	

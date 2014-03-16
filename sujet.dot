@@ -19,10 +19,12 @@ digraph {
 	first -> "carte perforé"
 	first -> "basket"
 	first -> "match de foot"
+	first -> ""
 	
 	last -> dodo
 	last -> "roi de france"
 	last -> "guillotiné"
+	last -> "dinosaure"
 
 	subgraph cluster_FO{
 	

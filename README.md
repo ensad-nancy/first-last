@@ -19,11 +19,11 @@ restrictions
 
 1. récoler des documents se rapportant à des premiers… et des derniers…
 
-2. titrer et compléter la description de l'élement et de ses documents.
+2. Titrer et compléter la description de l’élément et de ses documents.
 
 ### proposer une mise en forme
 
-à partir de la base constitué vous travaillerez sur deux forme de restitution de ces deux stocks. 
+À partir de la base constituée, vous travaillerez sur deux formes de restitution de ces deux stocks. 
 
 
 

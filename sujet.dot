@@ -3,9 +3,9 @@ digraph {
 	premier -> dernier
 
 
-	subgraph cluser_FO{
+	subgraph cluster_FO{
 	
-		label ="in/out"
+		label="in/out"
 		
 		FIFO [label="FIFO\nthe first in the first out"]
 		LIFO [label="LIFO\nthe last in the last out"]
@@ -13,6 +13,5 @@ digraph {
 
 		FILI -> FIFO -> LIFO -> FILI
 	}
-
 	
 }

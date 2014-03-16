@@ -15,6 +15,7 @@ digraph {
 	last [label="dernier"]
 	
 	first -> last
+	last -> first
 	
 	"dernier des derniers\n et non pas le dernier en date" 
 

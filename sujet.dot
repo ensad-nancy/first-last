@@ -39,6 +39,9 @@ digraph {
 	last -> "vol du concorde"
 	last -> "Kodachrome"
 
+
+	first_word -> art
+	last_word -> art
 	subgraph cluster_FO{
 	
 		label="in/out"

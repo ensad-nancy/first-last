@@ -13,7 +13,7 @@ digraph {
 
 	first -> "homme sur la lune"
 	first -> "ordinateur"
-	first -> "animal dans l'espace"
+	first -> "chien dans l'espace"
 	
 	last -> dodo
 	last -> "roi de france"

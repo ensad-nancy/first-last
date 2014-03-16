@@ -2,10 +2,17 @@ digraph {
 
 	premier -> dernier
 
-	FIFO [label="FIFO\nthe first in the first out"]
-	LIFO [label="LIFO\nthe last in the last out"]
-	FILI [label="FILI\nthe first in and the last in"]
+
+	subgraph cluser_FO{
 	
-	FILI -> FIFO -> LIFO -> FILI
+		label ="in/out"
+		
+		FIFO [label="FIFO\nthe first in the first out"]
+		LIFO [label="LIFO\nthe last in the last out"]
+		FILI [label="FILI\nthe first in and the last in"]
+
+		FILI -> FIFO -> LIFO -> FILI
+	}
+
 	
 }

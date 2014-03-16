@@ -6,4 +6,6 @@ digraph {
 	LIFO [label="LIFO\nthe last in the last out"]
 	FILI [label="FILI\nthe first in and the last in"]
 	
+	FILI -> FIFO -> LIFO -> FILI
+	
 }

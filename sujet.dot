@@ -2,7 +2,7 @@ digraph {
 
 	fontname="myriadpro"
 	fontsize = 14
-	rankdir="BT"
+	rankdir="TB"
 	node [fontname="myriadpro", fontsize = 10]
 	edge [fontname="monaco", fontsize = 9]
 	

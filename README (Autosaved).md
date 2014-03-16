@@ -1,15 +1,7 @@
 first-last
 ==========
 
-### premier/dernier
-
-tout les types sont acceptés 
-
-- événement
-- objet
-- personnage
-- être vivant.
-
+### premier/derniers
 
 ### constituer la base
 
@@ -24,7 +16,7 @@ tout les types sont acceptés
 
 
 
-
+- il peut s’agir d’événement, d’objet, de personnage, d’être vivant.
 
 
 ### à propos de l’atelier 

@@ -1,6 +1,6 @@
 digraph {
 
-	layout= "neato"
+	layout= "fdp"
 	
 
 	fontname="myriadpro"

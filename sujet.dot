@@ -17,7 +17,7 @@ digraph {
 	first -> "machine à vapeur"
 	first -> "message envoyé par télégraphe Chappe"
 	first -> "carte perforé"
-	first -> "basket"
+	first -> "basket (chaussure)"
 	first -> "match de foot"
 	first -> ""
 	
@@ -25,7 +25,7 @@ digraph {
 	last -> "roi de france"
 	last -> "guillotiné"
 	last -> "dinosaure"
-	last -> "piece de moliére"
+	last -> "piéce de moliére"
 
 	subgraph cluster_FO{
 	

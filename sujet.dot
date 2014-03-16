@@ -1,15 +1,16 @@
 digraph {
 
-	first [label="premier"]
-	last [label="dernier"]
-	
+
 	fontname="myriadpro"
 	fontsize = 14
 	
 	
 	node [fontname="myriadpro", fontsize = 10]
 	edge [fontname="monaco", fontsize = 9]
-		
+	
+	first [label="premier"]
+	last [label="dernier"]
+	
 	"dernier des derniers\n et non pas le dernier en date" 
 
 	first -> "homme sur la lune"

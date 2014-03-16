@@ -3,7 +3,7 @@ first-last
 
 ### premier/dernier
 
-tout les types sont acceptés 
+tous les types sont acceptés 
 
 - événement
 - objet
@@ -13,9 +13,7 @@ tout les types sont acceptés
 
 restrictions 
 
-- seul les derniers / premiers absolus sont acceptés 
-
-dernier des derniers et non pas le dernier en date
+- seuls les derniers / premiers absolus sont acceptés (pas de dernier en date ni de dernier de la course par exemple)
 
 ### constituer la base
 

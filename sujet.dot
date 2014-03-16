@@ -18,6 +18,7 @@ digraph {
 	first -> "message envoyé par télégraphe Chappe"
 	first -> "carte perforé"
 	first -> "basket"
+	first -> "match de foot"
 	
 	last -> dodo
 	last -> "roi de france"

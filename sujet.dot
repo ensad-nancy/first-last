@@ -13,6 +13,7 @@ digraph {
 	first -> "ordinateur"
 	
 	last -> dodo
+	last -> souffle
 
 	subgraph cluster_FO{
 	

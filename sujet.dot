@@ -36,6 +36,7 @@ digraph {
 	last -> "dinosaure"
 	last -> "piéce de moliére"
 	last -> "vol du concorde"
+	last -> "Kodachrome"
 
 	subgraph cluster_FO{
 	

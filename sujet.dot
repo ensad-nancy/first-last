@@ -56,7 +56,8 @@ digraph {
 		
 		get [label="récolter"]
 		
-		get -> cas -> metadata -> upload
+		add -> cas -> metadata -> upload
+		
 	
 	}
 	

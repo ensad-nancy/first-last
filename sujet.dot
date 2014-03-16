@@ -1,10 +1,12 @@
 digraph {
 
+	layout= "neato"
+	
+
 	fontname="myriadpro"
 	fontsize = 14
 	rankdir="LR"
 	
-	layout=neato
 	
 	node [fontname="myriadpro", fontsize = 10]
 	edge [fontname="monaco", fontsize = 9]

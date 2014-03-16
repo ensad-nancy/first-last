@@ -48,7 +48,7 @@ digraph {
 		LIFO [label="- LIFO -\nlast in\nlast out"]
 		FILI [label="- FILI -\nfirst in\n last in"]
 
-		FILI -> FIFO -> LIFO -> FILI 
+		FILI -> FIFO -> LIFO -> FILI
 	}
 	
 	subgraph cluster_process {

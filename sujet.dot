@@ -60,6 +60,8 @@ digraph {
 		ajouter -> categoriser -> decrire -> envoyer
 		
 		"+ utiliser toutes les documents
-+ mettre à jour en permanence" [ shape=box]
++ mettre à jour en permanence
++ mettre en relation les evenement
++ passer du global au détail" [ shape=box]
 	}
 }

@@ -8,6 +8,8 @@ digraph {
 	
 	node [fontname="myriadpro", fontsize = 12]
 	edge [fontname="monaco", fontsize = 10]
+		
+	"dernier des derniers\n et non pas le dernier en date" 
 
 	first -> "homme sur la lune"
 	first -> "ordinateur"

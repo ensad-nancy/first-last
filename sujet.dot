@@ -10,6 +10,7 @@ digraph {
 	first -> "homme sur la lune"
 	first -> "ordinateur"
 	
+	last -> dodo
 
 	subgraph cluster_FO{
 	

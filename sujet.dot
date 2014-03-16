@@ -20,7 +20,7 @@ digraph {
 	first -> "ordinateur"
 	first -> "chien dans l'espace"
 	first -> "machine à vapeur"
-	first -> "message envoyé par télégraphe Chappe"
+	first -> "message envoyé\npar un télégraphe Chappe"
 	first -> "carte perforé"
 	first -> "basket (chaussure)"
 	first -> "match de foot"

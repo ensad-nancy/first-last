@@ -1,5 +1,7 @@
 digraph {
 
- premier -> dernier
+	premier -> dernier
+
+	fifo label["fifo\nfirst in first out"]
 
 }

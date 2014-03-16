@@ -40,8 +40,7 @@ digraph {
 	last -> "Kodachrome"
 
 
-	first_word -> art
-	last_word -> art
+	first_word -> last_word
 	subgraph cluster_FO{
 	
 		label="in/out"

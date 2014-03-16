@@ -53,6 +53,10 @@ digraph {
 	subgraph cluster_process {
 		
 		label="processus"
+		
+		get [label="récolter"]
+		
+		get -> first
 	
 	}
 	

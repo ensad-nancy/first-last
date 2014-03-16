@@ -1,9 +1,7 @@
 digraph {
 
-
 	fontname="myriadpro"
 	fontsize = 14
-	
 	
 	node [fontname="myriadpro", fontsize = 10]
 	edge [fontname="monaco", fontsize = 9]
@@ -15,6 +13,7 @@ digraph {
 
 	first -> "homme sur la lune"
 	first -> "ordinateur"
+	first -> "animal dans l'espace"
 	
 	last -> dodo
 	last -> "roi de france"

@@ -14,6 +14,7 @@ digraph {
 	first -> "homme sur la lune"
 	first -> "ordinateur"
 	first -> "chien dans l'espace"
+	first -> "machine à vapeur"
 	
 	last -> dodo
 	last -> "roi de france"

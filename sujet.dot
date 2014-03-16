@@ -1,7 +1,12 @@
 digraph {
 
 	premier -> dernier
-
+	fontname="myriadpro"
+	fontsize = 14
+	
+	node [fontname="myriadpro", fontsize = 12]
+	edge [fontname="monaco", fontsize = 10]
+	
 
 	subgraph cluster_FO{
 	

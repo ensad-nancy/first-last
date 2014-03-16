@@ -58,6 +58,8 @@ digraph {
 		
 		ajouter -> categoriser -> decrire -> envoyer
 		
+		"utiliser toutes les documents"
+		"garder et trouver un moyen de montrer toutes les version"
 		
 	
 	}

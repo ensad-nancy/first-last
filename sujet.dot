@@ -26,6 +26,9 @@ digraph {
 	first -> "match de foot"
 	first -> "traversée de l'atlantique\nà la rame"
 	first -> "guerre mondiale"
+	first -> "transmission radio"
+	first -> "clonage"
+	first -> "décodage du génome"
 	
 	last -> dodo
 	last -> "roi de france"

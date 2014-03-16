@@ -56,7 +56,7 @@ digraph {
 		
 		get [label="récolter"]
 		
-		get -> cas
+		get -> cas -> "renseigner les informations"
 	
 	}
 	

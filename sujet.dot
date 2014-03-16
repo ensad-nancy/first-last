@@ -14,7 +14,7 @@ digraph {
 		
 		FIFO [label="- FIFO -\nfirst in\nfirst out"]
 		LIFO [label="- LIFO -\nlast in\nlast out"]
-		FILI [label="- FILI -\nfirst\n last in"]
+		FILI [label="- FILI -\nfirst in\n last in"]
 
 		FILI -> FIFO -> LIFO -> FILI
 	}

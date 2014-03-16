@@ -1,6 +1,6 @@
 digraph {
 
-	layout= "twopi"
+	layout= "fdp"
 	
 
 	fontname="myriadpro"

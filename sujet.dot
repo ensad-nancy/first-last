@@ -60,6 +60,6 @@ digraph {
 		
 		"
 - utiliser toutes les documents
-- mettre à jour en permanence" [ shape=square]
+- mettre à jour en permanence" [ shape=box]
 	}
 }

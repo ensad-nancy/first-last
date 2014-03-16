@@ -19,7 +19,7 @@ digraph {
 	first -> "carte perforé"
 	first -> "basket (chaussure)"
 	first -> "match de foot"
-	first -> ""
+	first -> "traversé de l'atlantique\nà la rame"
 	
 	last -> dodo
 	last -> "roi de france"

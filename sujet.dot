@@ -4,7 +4,7 @@ digraph {
 	fontsize = 14
 	rankdir="LR"
 	
-	layout = fpd
+	layout = "fpd"
 	
 	node [fontname="myriadpro", fontsize = 10]
 	edge [fontname="monaco", fontsize = 9]

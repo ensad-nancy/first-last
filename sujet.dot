@@ -58,8 +58,7 @@ digraph {
 		
 		ajouter -> categoriser -> decrire -> envoyer
 		
-		"
-- utiliser toutes les documents
+		"- utiliser toutes les documents
 - mettre à jour en permanence" [ shape=box]
 	}
 }

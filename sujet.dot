@@ -50,4 +50,10 @@ digraph {
 		FILI -> FIFO -> LIFO -> FILI
 	}
 	
+	subgraph cluster_process {
+		
+		label="processus"
+	
+	}
+	
 }

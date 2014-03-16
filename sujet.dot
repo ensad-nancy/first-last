@@ -17,6 +17,7 @@ digraph {
 	first -> "machine à vapeur"
 	first -> "message envoyé par télégraphe Chappe"
 	first -> "carte perforé"
+	first -> "basket"
 	
 	last -> dodo
 	last -> "roi de france"

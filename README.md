@@ -1,29 +1,34 @@
 first — last
 ==========
 
-
-Pendant les 5 prochaines semaines …
-
-1. Récolter des documents représentant des premiers et des derniers (événement, objets, personnage, être vivant, matière). Il peut s’agir de coupures de presse, de citations, de photographie, d’un extrait audio ou vidéo (± 2 min.), d’un dessin… 
-
-2. Pour chaque premier/dernier un dossier est crée. Dans le dossier un fichier texte donne les renseignements de base sur l’événement (un titre court, une date, une description…) puis sont déposés au moins 3 médias.Chacun des médias est accompagné d’un fichier texte portant le même nom contenant des métadonnées.
-
-3. Proposer et réalise une forme qui permet d'avoir une vision d'ensemble et d'accéder au détail de tout les événements présent dans la base.
-
-----
-- La base sera augmenté tout au long de l'atelier pour atteindre 150 elements :  
-`5 semaines x 10 étudiants x 3 événements = 150 événements` 
-
-- Pendant la conception il faudra composer avec ce qu'on as déja et ce qui va arriver. 
-
-
-
-### définition & références
-
 |     Premier                                            | Dernier                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------- |
 | Avant l’existence duquel il n’en existait pas d’autres.| Dans un ordre, celui après lequel il n’y en a pas d’autres. |
 
+Pendant les 5 prochaines séances …
+
+# 1
+Récolter des documents représentant des premiers et des derniers (événement, objets, personnage, être vivant ). Il peut s’agir de coupures de presse, de citations, de photographie, d’un extrait audio ou vidéo (± 2 min), d’un dessin … 
+
+# 2
+Pour chaque premier/dernier un dossier est crée. Dans le dossier un fichier texte donne les renseignements de base sur l’événement (un titre court, une date, une description…) puis sont déposés au moins 3 médias. Chacun des médias est accompagné d’un fichier texte portant le même nom contenant des métadonnées.
+
+#### strucure de la base
+- ![dir](http://www.apache.org/icons/dir.gif) nom_evenement
+  - ![script](http://www.apache.org/icons/script.gif) dernier.md
+  - ![script](http://www.apache.org/icons/image2.gif) document_titre.jpg
+  - ![script](http://www.apache.org/icons/script.gif) document_titre.md
+
+# 3 
+Proposer et réaliser un dispositif permettant d’avoir une vision d’ensemble et d’accéder au détail de tous les événements référencés.
+
+----
+- La base sera augmentée tout au long de l’atelier pour atteindre 150 éléments :  
+`5 semaines x 10 étudiants x 3 événements = 150 événements` 
+
+- Pendant la conception, il faudra composer avec ce qu’on a déjà et ce qui va arriver.
+
+### Références
 
 - [first word art last word art](http://www.naimark.net/writing/firstword.html) — Michael Naimark (2011)
 - [the last movie](http://fr.wikipedia.org/wiki/The_Last_Movie)

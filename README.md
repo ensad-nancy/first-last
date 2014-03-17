@@ -15,14 +15,13 @@ Pendant les 5 prochaines semaines …
 
 ### définition & références
 
-Premier
+> **Premier**
 > Avant l’existence duquel il n’en existait pas d’autres.
 
-Dernier 
+> **Dernier**
 > Dans un ordre, celui après lequel il n’y en a pas d’autres.
 
 - [first word art last word art](http://www.naimark.net/writing/firstword.html) — Michael Naimark (2011)
-
 - [the last movie](http://fr.wikipedia.org/wiki/The_Last_Movie)
 
 ### à propos de l’atelier 

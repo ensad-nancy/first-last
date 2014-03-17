@@ -10,15 +10,15 @@ first — last
 
 # 1
 ### événements
-Rechercher des **événement** qui signale des premières et des dernières fois. Il peut s'agir de premier usage d'une objets, d'une première action humaine, d'une poussé technique, de la disparition d'un animal etc.
+Rechercher des **événements** qui signalent des premières et des dernières fois. Il peut s’agir de premier usage d’un objet, d’une première action humaine, d’une poussée technique, de la disparition d’un animal, etc.
 
-Récolter des document concernant ces **événements**. Il peut s’agir de coupures de presse, de citations, de photographie, d’un extrait audio ou vidéo (± 2 min), d’un dessin… 
+Récolter des documents concernant ces **événements**. Il peut s’agir de coupures de presse, de citations, de photographie, d’un extrait audio ou vidéo (± 2 min), d’un dessin… 
 
 # 2
 ### base
-Pour chacun **événement** un dossier est crée. Dans le dossier un fichier texte donne des informations de base sur l’**événement** ( titre court, date, description…) 
+Pour chaque **événement**, un dossier est créé. Dans ce dossier un fichier texte donne des informations de base sur l’**événement** (titre court, date, description…) 
 
-A la description sont ajoutés moins 3 document. Chaque document est accompagné d’un fichier texte portant le même nom contenant des métadonnées.
+À la description sont ajoutés moins 3 documents. Chaque document est accompagné d’un fichier texte portant le même nom contenant des métadonnées (auteur, source, etc).
 
 **structure type**
 - ![dir](http://www.apache.org/icons/dir.gif) nom_evenement
@@ -26,8 +26,8 @@ A la description sont ajoutés moins 3 document. Chaque document est accompagné
   - ![script](http://www.apache.org/icons/image2.gif) document_titre.jpg
   - ![script](http://www.apache.org/icons/script.gif) document_titre.md
 
-- Les fichiers de description (.md) doivent utiliser la syntax [markdown](http://fr.wikipedia.org/wiki/Markdown)
-- La base sera augmentée tout au long de l’atelier pour atteindre au minimum 150 éléments :  
+- Les fichiers de description (.md) devront utiliser la syntaxe [markdown](http://fr.wikipedia.org/wiki/Markdown)
+- La **base** sera augmentée tout au long de l’atelier pour atteindre aux minimum 150 éléments :  
 `5 semaines x 10 étudiants x 3 séances = 150 événements`
 
 
@@ -35,7 +35,7 @@ A la description sont ajoutés moins 3 document. Chaque document est accompagné
 ### dispositif
 Proposer et réaliser un **dispositif** permettant d’avoir une vision d’ensemble et d’accéder au détail de tous les événements référencés.
 
-Le dispositif peut prendre toute sorte de formes (vidéo, affichage, activation, site internet, application mobile, installation…). Il devra intégrer le fait que base est régulièrement mise à jour.
+Le dispositif peut prendre toute sorte de formes (vidéo, affichage, activation, site internet, application mobile, installation…). Il devra intégrer le fait que **base d'évenements** est régulièrement mise à jour.
 
 # R
 ### Références

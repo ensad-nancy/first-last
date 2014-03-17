@@ -2,6 +2,9 @@ ensan / nouveau département / semestre 7 / 5 séances
 first — last
 ==========
 
+![dir](http://www.catsprn.com/images/concorde3.jpg)<br/>
+[source](http://www.catsprn.com/concordes_last_flight.htm)
+
 
 |     Premier                                            | Dernier                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------- |

@@ -1,29 +1,26 @@
+ensan / nouveau département / semestre 7 / 5 séances
 first — last
 ==========
+
 
 |     Premier                                            | Dernier                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------- |
 | Avant l’existence duquel il n’en existait pas d’autres.| Dans un ordre, celui après lequel il n’y en a pas d’autres. |
 
-Pendant les 5 prochaines séances…
 
 # 1
-Rechercher des _événement_ qui signale des premières et des dernières fois.
+### événements
+Rechercher des **événement** qui signale des premières et des dernières fois. Il peut s'agir de premier usage d'une objets, d'une première action humaine, d'une poussé technique, de la disparition d'un animal etc.
 
-Il peut s'agir de premier usage d'une objets, d'une première action humaine, d'une poussé technique, de la disparition d'un animal etc.
-
-Récolter des document concernant ces _événements_. Il peut s’agir de coupures de presse, de citations, de photographie, d’un extrait audio ou vidéo (± 2 min), d’un dessin… 
+Récolter des document concernant ces **événements**. Il peut s’agir de coupures de presse, de citations, de photographie, d’un extrait audio ou vidéo (± 2 min), d’un dessin… 
 
 # 2
-Pour chacun _événement_ un dossier est crée. 
+### base
+Pour chacun **événement** un dossier est crée. Dans le dossier un fichier texte donne des informations de base sur l’**événement** ( titre court, date, description…) 
 
-Dans le dossier un fichier texte donne des informations de base sur l’_événement_ ( titre court, date, description…) 
+A la description sont ajoutés moins 3 document. Chaque document est accompagné d’un fichier texte portant le même nom contenant des métadonnées.
 
-A la description sont ajoutés moins 3 document. 
-
-Chaque document est accompagné d’un fichier texte portant le même nom contenant des métadonnées.
-
-**structure de la base**
+**structure type**
 - ![dir](http://www.apache.org/icons/dir.gif) nom_evenement
   - ![script](http://www.apache.org/icons/script.gif) dernier.md
   - ![script](http://www.apache.org/icons/image2.gif) document_titre.jpg
@@ -34,19 +31,20 @@ La base sera augmentée tout au long de l’atelier pour atteindre 150 élément
 
 La norme utilisé pour les fichier de description est le [markdown](http://fr.wikipedia.org/wiki/Markdown)
 
-# 3 
+# 3
+### dispositif
 Proposer et réaliser un **dispositif** permettant d’avoir une vision d’ensemble et d’accéder au détail de tous les événements référencés.
-
-#### le dispositif
 
 Le dispositif peut prendre toute sorte de formes (vidéo, affichage, activation, site internet, application mobile, installation…). Il devra intégrer le fait que base est régulièrement mise à jour.
 
-### Références
+----
+
+**Références**
 
 - [first word art last word art](http://www.naimark.net/writing/firstword.html) — Michael Naimark (2011)
 - [the last movie](http://fr.wikipedia.org/wiki/The_Last_Movie)
 
-### à propos de l’atelier 
+**à propos de l’atelier**
 
 > La relative interopérabilité des éléments de la chaîne graphique permet de la penser d’une manière plus souple et libère de nouveaux espaces occupables par le design. Là où il fallait penser la mise en forme d’un contenu établi, c’est tout le flux, de sa captation à sa publication en temps réel, qu’il faut concevoir. Cette proposition de formuler un processus total ouvre à une pensée plus transversale.
 

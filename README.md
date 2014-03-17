@@ -12,7 +12,7 @@ premier/dernier…
 ### événements
 Sélectionner des **événements** qui signalent des premières et des dernières fois. Il peut s’agir de premier usage d’un objet, d’une découverte, de l’extinction d’une espèce, du premier homme à effectuer une ascension, etc.
 
-Récolter des documents concernant ces **événements** comme une coupure de presse, une citation, un extrait audio ou vidéo (± 2 min), une photographie, un dessin… 
+Récolter documents qui attestent ou commentent l'**événement** (coupure de presse, citation, extrait audio ou vidéo,  photographie, dessin…).
 
 |     Premier                                            | Dernier                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------- |
@@ -22,8 +22,12 @@ Récolter des documents concernant ces **événements** comme une coupure de pre
 # 2
 ### base de connaissances
 
-La **base** d’**événements** sera augmentée tout au long de l’atelier pour atteindre aux minimum 150 éléments :  
-`5 semaines x 10 étudiants x 3 séances = 150 événements`
+La **base** d’**événements** sera augmentée tout au long de l’atelier pour atteindre au minimum 150 éléments :  
+```
+10  étudiants  x 3 événements = 30  événements
+30  événements x 5 séances    = 150 événements
+150 événements x 3 documents  = 450 documents
+```
 
 Pour chaque **événement**, un dossier est créé. Dans ce dossier un fichier texte donne des informations de base sur l’**événement** (titre court, date, description…) 
 
@@ -38,9 +42,10 @@ Pour chaque **événement**, un dossier est créé. Dans ce dossier un fichier t
 **formats de médias**
 
 - Les images seront au format **JPG, PNG ou GIF** à une résolution raisonnable (< 2500px)
-- Les vidéos seront encodés en **mp4 (h264)**
-- Les sons seront encodés en **mp3**
+- Les extraits vidéos (± 3 min) seront encodés en **mp4 (h264)**
+- Les extraits sons (± 3 min) seront encodés en **mp3**
 - Les fichiers de description (.md) devront utiliser la **[syntaxe markdown](http://fr.wikipedia.org/wiki/Markdown)**
+- Les autres dans d'autres formats (pdf, doc, epub …) seront transformés en texte ou [rasterisé](http://fr.wikipedia.org/wiki/Rast%C3%A9risation).
 
 **quelques éditeurs markdown:**
 

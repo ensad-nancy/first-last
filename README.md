@@ -35,20 +35,19 @@ Pour chaque **événement**, un dossier est créé. Dans ce dossier un fichier t
   - ![script](http://www.apache.org/icons/image2.gif) document_titre.jpg
   - ![script](http://www.apache.org/icons/script.gif) document_titre.md
 
-**markdown**
+**formats de médias**
 
-Les fichiers de description (.md) devront utiliser la syntaxe [markdown](http://fr.wikipedia.org/wiki/Markdown)
+- Les images seront au format **JPG, PNG ou GIF** à une résolution raisonnable (< 2500px)
+- Les vidéos seront encodés en **mp4 (h264)**
+- Les sons seront encodés en **mp3**
+- Les fichiers de description (.md) devront utiliser la **[syntaxe markdown](http://fr.wikipedia.org/wiki/Markdown)**
 
-quelques éditeurs :
+**quelques éditeurs markdown:**
 
 - [mou](http://mouapp.com)
 - [sublime text](http://www.sublimetext.com/)
 - [stackedit.io](https://stackedit.io/)
 
-**formats**
-
-- Les fichiers vidéos seront encodés en mp4 (h264)
-- Les fichiers son seront encodés en mp3
 
 
 # 3
@@ -64,11 +63,8 @@ Enfin, quelle que soit la forme choisie, une documentation devra permettre d’e
 # R
 ### Références
 
-- [first word art last word art](http://www.naimark.net/writing/firstword.html) — Michael Naimark (2011)
-- [the last movie](http://fr.wikipedia.org/wiki/The_Last_Movie)
 
-éditeurs markdown 
-- 
+- [first word art last word art](http://www.naimark.net/writing/firstword.html) — Michael Naimark (2011)
 
 **à propos de l’atelier**
 

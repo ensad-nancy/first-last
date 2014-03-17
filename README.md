@@ -26,10 +26,10 @@ A la description sont ajoutés moins 3 document. Chaque document est accompagné
   - ![script](http://www.apache.org/icons/image2.gif) document_titre.jpg
   - ![script](http://www.apache.org/icons/script.gif) document_titre.md
 
-La base sera augmentée tout au long de l’atelier pour atteindre 150 éléments :  
+- Les fichiers de description (.md) doivent utiliser la syntax [markdown](http://fr.wikipedia.org/wiki/Markdown)
+- La base sera augmentée tout au long de l’atelier pour atteindre 150 éléments :  
 `5 semaines x 10 étudiants x 3 séances = 150 événements`
 
-La norme utilisé pour les fichier de description est le [markdown](http://fr.wikipedia.org/wiki/Markdown)
 
 # 3
 ### dispositif
@@ -37,9 +37,8 @@ Proposer et réaliser un **dispositif** permettant d’avoir une vision d’ense
 
 Le dispositif peut prendre toute sorte de formes (vidéo, affichage, activation, site internet, application mobile, installation…). Il devra intégrer le fait que base est régulièrement mise à jour.
 
-----
-
-**Références**
+# R
+### Références
 
 - [first word art last word art](http://www.naimark.net/writing/firstword.html) — Michael Naimark (2011)
 - [the last movie](http://fr.wikipedia.org/wiki/The_Last_Movie)

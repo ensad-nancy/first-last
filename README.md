@@ -10,7 +10,7 @@ first — last
 
 # 1
 ### événements
-Rechercher des **événements** qui signalent des premières et des dernières fois. Il peut s’agir de premier usage d’un objet, d’une découverte, de l’extinction d’une espèce, du premier homme à effectuer une ascension, etc.
+Sélectionner des **événements** qui signalent des premières et des dernières fois. Il peut s’agir de premier usage d’un objet, d’une découverte, de l’extinction d’une espèce, du premier homme à effectuer une ascension, etc.
 
 Récolter des documents concernant ces **événements** comme une coupure de presse, une citation, un extrait audio ou vidéo (± 2 min), une photographie, un dessin… 
 

@@ -8,19 +8,31 @@ first — last
 Pendant les 5 prochaines séances…
 
 # 1
-Récolter des documents représentant des premiers et des derniers (événement, objets, personnage, être vivant). Il peut s’agir de coupures de presse, de citations, de photographie, d’un extrait audio ou vidéo (± 2 min), d’un dessin… 
+Rechercher des _événement_ qui signale des premières et des dernières fois.
+
+Il peut s'agir de premier usage d'une objets, d'une première action humaine, d'une poussé technique, de la disparition d'un animal etc.
+
+Récolter des document concernant ces _événements_. Il peut s’agir de coupures de presse, de citations, de photographie, d’un extrait audio ou vidéo (± 2 min), d’un dessin… 
 
 # 2
-Pour chaque premier/dernier un dossier est crée. Dans le dossier un fichier texte donne les renseignements de base sur l’événement (un titre court, une date, une description…) puis sont déposés au moins 3 médias. Chacun des médias est accompagné d’un fichier texte portant le même nom contenant des métadonnées.
+Pour chacun _événement_ un dossier est crée. 
 
-La base sera augmentée tout au long de l’atelier pour atteindre 150 éléments :  
-`5 semaines x 10 étudiants x 3 événements = 150 événements`
+Dans le dossier un fichier texte donne des informations de base sur l’_événement_ ( titre court, date, description…) 
 
-#### structure de la base
+A la description sont ajoutés moins 3 document. 
+
+Chaque document est accompagné d’un fichier texte portant le même nom contenant des métadonnées.
+
+**structure de la base**
 - ![dir](http://www.apache.org/icons/dir.gif) nom_evenement
   - ![script](http://www.apache.org/icons/script.gif) dernier.md
   - ![script](http://www.apache.org/icons/image2.gif) document_titre.jpg
   - ![script](http://www.apache.org/icons/script.gif) document_titre.md
+
+La base sera augmentée tout au long de l’atelier pour atteindre 150 éléments :  
+`5 semaines x 10 étudiants x 3 événements = 150 événements`
+
+La norme utilisé pour les fichier de description est le [markdown](http://fr.wikipedia.org/wiki/Markdown)
 
 # 3 
 Proposer et réaliser un **dispositif** permettant d’avoir une vision d’ensemble et d’accéder au détail de tous les événements référencés.

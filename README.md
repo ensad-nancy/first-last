@@ -46,7 +46,6 @@ quelques éditeurs :
 - Les fichiers son seront encodés en mp3
 
 
-
 # 3
 ### dispositif
 Proposer et réaliser un **dispositif** permettant d’avoir une vision d’ensemble et d’accéder au détail de tous les événements référencés.

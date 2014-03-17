@@ -6,26 +6,28 @@ first — last
 [source](http://www.catsprn.com/concordes_last_flight.htm)
 
 
+
+
+# 1
+### événements
+Rechercher des **événements** qui signalent des premières et des dernières fois. Il peut s’agir de premier usage d’un objet, d’une découverte, de l’extinction d’une espèce, du premier homme à effectuer une ascension, etc.
+
+Récolter des documents concernant ces **événements** comme une coupure de presse, une citation, un extrait audio ou vidéo (± 2 min), une photographie, un dessin… 
+
 |     Premier                                            | Dernier                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------- |
 | Avant l’existence duquel il n’en existait pas d’autres.| Dans un ordre, celui après lequel il n’y en a pas d’autres. |
 
 
-# 1
-### événements
-Rechercher des **événements** qui signalent des premières et des dernières fois. Il peut s’agir de premier usage d’un objet, d’une première action humaine, d’une poussée technique, de la disparition d’un animal, etc.
-
-Récolter des documents concernant ces **événements**. Il peut s’agir de coupures de presse, de citations, de photographie, d’un extrait audio ou vidéo (± 2 min), d’un dessin… 
-
 # 2
-### base
+### base de connaissances
 
-La **base** d'**événements** sera augmentée tout au long de l’atelier pour atteindre aux minimum 150 éléments :  
+La **base** d’**événements** sera augmentée tout au long de l’atelier pour atteindre aux minimum 150 éléments :  
 `5 semaines x 10 étudiants x 3 séances = 150 événements`
 
 Pour chaque **événement**, un dossier est créé. Dans ce dossier un fichier texte donne des informations de base sur l’**événement** (titre court, date, description…) 
 
-À la description sont ajoutés moins 3 documents. Chaque document est accompagné d’un fichier texte portant le même nom contenant des métadonnées (auteur, source, etc).
+À la description sont ajoutés moins 3 documents. Chaque document est accompagné d’un fichier texte portant le même nom contenant des métadonnées (auteur, source, etc.).
 
 **structure type**
 - ![dir](http://www.apache.org/icons/dir.gif) nom_evenement
@@ -50,10 +52,14 @@ quelques éditeurs :
 
 
 # 3
-### dispositif
-Proposer et réaliser un **dispositif** permettant d’avoir une vision d’ensemble et d’accéder au détail de tous les événements référencés.
+### dispositif d’activation
+Proposer et réaliser un **dispositif d’activation** permettant d’explorer la base de connaissances. 
 
-Le dispositif peut prendre toute sorte de formes (vidéo, affichage, activation, site internet, application mobile, installation…). Il devra intégrer le fait que **base d'évenements** est régulièrement mise à jour.
+Ce dispositif devra permettre une vision d’ensemble et un accès au détail de chacun des éléments référencés. Ces deux modes d’activation peuvent se répondre, se combiner ou faire l’objet de deux réponses distinctes. De même les derniers et les premiers peuvent être traités ensemble ou séparément.
+
+Il peut prendre toute sorte de formes (vidéo, affichage, activation, site internet, application mobile, installation…), mais il intégrera la possibilité d’être mis à jour (au rythme de l’expansion de la **base d’événements**).
+
+Enfin, quelle que soit la forme choisie, une documentation devra permettre d’en rendre compte en ligne.
 
 # R
 ### Références

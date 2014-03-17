@@ -10,14 +10,15 @@ premier/dernier…
 
 # 1
 ### événements
-Sélectionner des **événements** qui signalent des premières et des dernières fois. Il peut s’agir de premier usage d’un objet, d’une découverte, de l’extinction d’une espèce, du premier homme à effectuer une ascension, etc.
-
-Récolter documents qui attestent ou commentent l'**événement** (coupure de presse, citation, extrait audio ou vidéo,  photographie, dessin…).
 
 |     Premier                                            | Dernier                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------- |
 | Avant l’existence duquel il n’en existait pas d’autres.| Dans un ordre, celui après lequel il n’y en a pas d’autres. |
 
+
+Sélectionner des **événements** qui signalent des premières et des dernières fois. Il peut s’agir de premier usage d’un objet, d’une découverte, de l’extinction d’une espèce, du premier homme à effectuer une ascension, etc.
+
+Récolter documents qui attestent ou commentent l'**événement** (coupure de presse, citation, extrait audio ou vidéo,  photographie, dessin…).
 
 # 2
 ### base de connaissances

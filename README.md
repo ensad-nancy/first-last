@@ -27,7 +27,7 @@ A la description sont ajoutés moins 3 document. Chaque document est accompagné
   - ![script](http://www.apache.org/icons/script.gif) document_titre.md
 
 - Les fichiers de description (.md) doivent utiliser la syntax [markdown](http://fr.wikipedia.org/wiki/Markdown)
-- La base sera augmentée tout au long de l’atelier pour atteindre 150 éléments :  
+- La base sera augmentée tout au long de l’atelier pour atteindre au minimum 150 éléments :  
 `5 semaines x 10 étudiants x 3 séances = 150 événements`
 
 

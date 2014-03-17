@@ -1,7 +1,10 @@
 digraph {
 
-	layout= "dot"
+
+	// 
 	
+	
+	layout= "dot"
 
 	fontname="myriadpro"
 	fontsize = 14
@@ -13,9 +16,6 @@ digraph {
 	
 	first [label="premier"]
 	last [label="dernier"]
-
-	"dernier des derniers\n et non pas le dernier en date" 
-
 	first -> "homme sur la lune"
 	first -> "ordinateur"
 	first -> "chien dans l'espace"
@@ -40,29 +40,4 @@ digraph {
 	last -> "vol du concorde"
 	last -> "Kodachrome"
 
-	first_word -> last_word
-	subgraph cluster_FO{
-	
-		label="in/out"
-		
-		FIFO [label="- FIFO -\nfirst in\nfirst out"]
-		LIFO [label="- LIFO -\nlast in\nlast out"]
-		FILI [label="- FILI -\nfirst in\n last in"]
-
-		FILI -> FIFO -> LIFO -> FILI
-	}
-	
-	subgraph cluster_process {
-		
-		label="processus"
-		
-		//get [label="récolter"]
-		
-		ajouter -> categoriser -> decrire -> envoyer
-		
-		"+ utiliser toutes les documents
-+ mettre à jour en permanence
-+ mettre en relation les evenement
-+ passer du global au détail" [ shape=box]
-	}
 }

@@ -1,9 +1,5 @@
 digraph {
 
-
-	// 
-	
-	
 	layout= "dot"
 
 	fontname="myriadpro"
@@ -16,6 +12,7 @@ digraph {
 	
 	first [label="premier"]
 	last [label="dernier"]
+	
 	first -> "homme sur la lune"
 	first -> "ordinateur"
 	first -> "chien dans l'espace"

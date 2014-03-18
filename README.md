@@ -7,6 +7,13 @@ premier/dernier…
 
 
 
+|     | date     | ajouts        | todo           |
+| --- | -------- | ------------- | -------------- |
+| 1   | 18 mars  | +3 par pers.  | lancement      |
+| 2   | 25 mars  | +3 par pers.  | principes, croquis, interfaces, références       |
+| 3   | 01 avril | +3 par pers.  | prototype 1    |
+| 4   | 08 avril | +3 par pers.  | prototype 2 (fonctionel)    |
+| 5   |     —    | +3 par pers.  | finalisation   |
 
 # 1
 ### événements
@@ -48,12 +55,18 @@ Pour chaque **événement**, un dossier est créé. Dans ce dossier un fichier t
 - Les fichiers de description (.md) devront utiliser la **[syntaxe markdown](http://fr.wikipedia.org/wiki/Markdown)**
 - Les autres dans d'autres formats (pdf, doc, epub …) seront transformés en texte ou [rasterisé](http://fr.wikipedia.org/wiki/Rast%C3%A9risation).
 
-**quelques éditeurs markdown:**
-
+**éditeurs markdown**
 - [mou](http://mouapp.com)
 - [sublime text](http://www.sublimetext.com/)
 - [stackedit.io](https://stackedit.io/)
+- [iA Writer](http://www.iawriter.com/) (payant)
 
+**partage des documents**
+- [bittorrent sync](http://www.bittorrent.com/sync)
+
+**divers**
+- [graphviz](http://graphviz.org) (lecture des fichiers .dot)
+- [kibry](http://getkirby.com) (interpretation des données)
 
 
 # 3
@@ -71,6 +84,7 @@ Enfin, quelle que soit la forme choisie, une documentation devra permettre d’e
 
 
 - [first word art last word art](http://www.naimark.net/writing/firstword.html) — Michael Naimark (2011)
+
 
 **à propos de l’atelier**
 

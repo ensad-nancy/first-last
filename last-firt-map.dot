@@ -1,10 +1,14 @@
 digraph {
 
 	layout= "dot"
-
+  nodesep = 1
+	
 	fontname="myriadpro"
 	fontsize = 14
 	rankdir="LR"
+	
+	layout="fdp"
+	
 	
 	node [fontname="myriadpro", fontsize = 10]
 	edge [fontname="monaco", fontsize = 9]
@@ -27,13 +31,34 @@ digraph {
 	first -> "décodage du génome"
 	first -> "Hacker's Conference"
 	first -> "homme volant"
+	first -> "photo"
+	first -> "premier président métis"
+	first -> "vide artificiel"
+	first -> "tour de l'antarctique"
+	first -> "tour du monde"
+	first -> "tour du monde par une femme"
+	first -> "greffe de main"
+	first -> "greffe de cœur"
+	first -> "cœur artificiel"
+	first -> "séparation de siamois"
+	first -> "contact avec des pigmé"
+	first -> "string"
+  first -> "page internet"
+  first -> "montgolfière"
+  
 	
-	last -> dodo
+	last -> "mine de charbon francaise"
+	last -> "samourai"
+	last -> "dodo"
 	last -> "roi de france"
 	last -> "guillotiné"
 	last -> "dinosaure"
 	last -> "piéce de moliére"
 	last -> "vol du concorde"
-	last -> "Kodachrome"
-
+	last -> "Kodachrome" 
+	last -> "le dernier\nrepas de Jean Truc"
+	last -> "message du titanic"
+	last -> "le dernier repas du christ"
+  last -> "poilus"
+  last -> "requiem de Mozart"
 }

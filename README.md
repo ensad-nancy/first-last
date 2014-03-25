@@ -67,7 +67,7 @@ Pour chaque **événement**, un dossier est créé. Dans ce dossier un fichier t
 **divers**
 - [graphviz](http://graphviz.org) (lecture des fichiers .dot)
 - [kibry](http://getkirby.com) (interpretation des données)
-- [downloadhelper](http://www.downloadhelper.net/install.php)
+- [downloadhelper](https://addons.mozilla.org/fr/firefox/addon/video-downloadhelper/)
 
 # 3
 ### dispositif d’activation

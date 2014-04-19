@@ -13,7 +13,7 @@ premier/dernier…
 | 2   | 25 mars  | +3 par pers.  | principes, croquis, interfaces, références       |
 | 3   | 01 avril | +3 par pers.  | prototype 1    |
 | 4   | 08 avril | +3 par pers.  | prototype 2 (fonctionel)    |
-| 5   |     —    | +3 par pers.  | finalisation   |
+| 5   | 22 avril | +3 par pers.  | finalisation   |
 
 # 1
 ### événements
